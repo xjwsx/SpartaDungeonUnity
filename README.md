@@ -1,2 +1,22 @@
-# SpartaDungeonUnity
- SpartaDungeonUnity
+# 이름
+진우성
+
+
+## 🖥️ 구현한 과제 
+스파르타 던전 Unity 버전 
+<br>
+
+## 🕰️ 개발 기간
+* 23.09.18일 - 23.09.22일
+
+### ⚙️ 개발 환경
+- `Unity`
+- `C#`
+- `Github`
+- `VisualStudio 2022`
+
+## 📌 주요 기능
+#### 필수요구사항
+- 메인 화면 구성
+- Status 보기
+- Inventory 보기 (실패)
