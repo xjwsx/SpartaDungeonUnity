@@ -1,0 +1,34 @@
+{
+    "name": "Controller",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "76fbfd8e-7df2-435c-9cb0-60b8c3ec0c86",
+            "actions": [
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "cf355181-c827-415d-8bde-6f47ba562ea1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3eaf2c5b-66f7-482c-80fe-5c6a2d32b057",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
